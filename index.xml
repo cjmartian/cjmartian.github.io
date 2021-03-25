@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Martin</title>
+    <link>https://cjmartian.github.io/</link>
+    <description>Recent content on Connor Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://cjmartian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://cjmartian.github.io/contact/</link>
+      <pubDate>Thu, 25 Mar 2021 16:36:45 -0500</pubDate>
+      
+      <guid>https://cjmartian.github.io/contact/</guid>
+      <description>Email: connormartin7@gmail.com
+GitHub: cjmartian
+LinkedIn: cjmartian
+Instagram: cojamartian
+Twitter: cojamartian</description>
+    </item>
+    
+    <item>
+      <title>This is another test</title>
+      <link>https://cjmartian.github.io/post2/</link>
+      <pubDate>Thu, 25 Mar 2021 16:35:53 -0500</pubDate>
+      
+      <guid>https://cjmartian.github.io/post2/</guid>
+      <description>Vivamus tempor purus luctus commodo mollis. Curabitur faucibus sem vel libero facilisis ultricies. Morbi nec rutrum metus, in ullamcorper massa. Maecenas eu erat faucibus, bibendum nisi mollis, pharetra velit. Nunc elementum, dui placerat vehicula pharetra, leo ante aliquet felis, eu consequat est sem sit amet tortor. Nullam malesuada lorem eget tellus gravida, id sodales lectus tempus. Etiam non tincidunt tortor, eget gravida nunc. Fusce sed sapien a nulla molestie congue. Praesent molestie nulla a turpis aliquet, ut ullamcorper mauris porta.</description>
+    </item>
+    
+    <item>
+      <title>This is just a test</title>
+      <link>https://cjmartian.github.io/post/</link>
+      <pubDate>Thu, 25 Mar 2021 16:33:46 -0500</pubDate>
+      
+      <guid>https://cjmartian.github.io/post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta nisi sed libero scelerisque tempor. Morbi mollis leo nec dictum accumsan. Quisque at massa laoreet, eleifend est et, sodales ante. Phasellus sit amet nibh ut est consequat euismod in ac velit. Curabitur accumsan, nisi in tempor blandit, nisl sapien fermentum nulla, vitae rhoncus diam neque in nisl. Maecenas at justo tristique, consequat metus id, vestibulum orci. Praesent et molestie risus, eu mollis leo.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cjmartian.github.io/about/</link>
+      <pubDate>Thu, 25 Mar 2021 12:22:04 -0500</pubDate>
+      
+      <guid>https://cjmartian.github.io/about/</guid>
+      <description>Connor Martin is a software engineer who has a passion for supporting the open source community. Connor currently works at Anaconda, inc. where he is an engineer on the distribution team. He primarily focuses on build system automation and is a core maintainer of conda. In his spare time, Connor likes to find new bars and restaurants to explore and enjoys riding his bike around town.
+Reach out on GitHub, LinkedIn, or via Email!</description>
+    </item>
+    
+  </channel>
+</rss>
