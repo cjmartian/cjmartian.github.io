@@ -2,21 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cjmartian.github.io/bandit-coffee-and-matcha/</loc>
+    <lastmod>2021-03-28T13:00:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjmartian.github.io/</loc>
+    <lastmod>2021-03-28T13:00:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjmartian.github.io/post/</loc>
+    <lastmod>2021-03-28T13:00:13-05:00</lastmod>
+  </url><url>
+    <loc>https://cjmartian.github.io/foodheads/</loc>
+    <lastmod>2021-03-28T12:43:57-05:00</lastmod>
+  </url><url>
     <loc>https://cjmartian.github.io/contact/</loc>
     <lastmod>2021-03-25T16:36:45-05:00</lastmod>
   </url><url>
-    <loc>https://cjmartian.github.io/post2/</loc>
-    <lastmod>2021-03-25T16:35:53-05:00</lastmod>
+    <loc>https://cjmartian.github.io/_post/</loc>
+    <lastmod>2021-03-25T16:33:46-05:00</lastmod>
   </url><url>
-    <loc>https://cjmartian.github.io/post/</loc>
+    <loc>https://cjmartian.github.io/try-hard-coffee/</loc>
     <lastmod>2021-03-25T16:33:46-05:00</lastmod>
   </url><url>
     <loc>https://cjmartian.github.io/about/</loc>
     <lastmod>2021-03-25T12:22:04-05:00</lastmod>
   </url><url>
     <loc>https://cjmartian.github.io/categories/</loc>
-  </url><url>
-    <loc>https://cjmartian.github.io/</loc>
   </url><url>
     <loc>https://cjmartian.github.io/tags/</loc>
   </url>
